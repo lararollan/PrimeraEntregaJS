@@ -1,5 +1,4 @@
 Pre Entrega 1 Rollan
-Primera Entrega del curso de JavaScript
 
 Calculador de promedio de 3 notas:
 1. Se solicita nombre del alumno.
