@@ -13,7 +13,6 @@ function solicitarNotas(){
     let nota = 0;
     do{
     nota = Number(prompt("Ingrese la nota (use un punto para los decimales)"));
-    console.log(nota);
     } while (isNaN(nota));
     return nota;
 }
